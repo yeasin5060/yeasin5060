@@ -1,4 +1,4 @@
-<h3 align="center">I’m currently learning JavaScript, MongoDB, ReactJSS, Express JS, Node JS, Tailwind, SACSS, Figma, Vem, HTML, CSS</h3>
+<h3 align="center">I’m currently learning JavaScript, MongoDB, Firebase ,ReactJSS, Express JS, Node JS, Tailwind, SACSS, Figma, Vem, HTML, CSS , MUI , React Redux , Axios</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasin5060&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin5060" /> </p>
 
