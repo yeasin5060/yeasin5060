@@ -1,4 +1,8 @@
-<h3 align="center">I’m currently learning JavaScript, MongoDB, Firebase ,ReactJSS, Express JS, Node JS, Tailwind, SCSS, Figma, Bem, HTML, CSS , MUI , React Redux-Toolkit , Axios</h3>
+<h3 align="center">I’m currently learning Front-End : JavaScript,ReactJS,Nextjs, Tailwind, SCSS, Figma, Bem, HTML, CSS , MUI , React Redux-Toolkit , Clerk, Socket.IO, Prebuilt UI, Imagekit, Cloudinary, Axios</h3>
+
+<h3 align="center">I’m currently learning Back-End : JavaScript,Node.js, Express.js, MongoDB, Firebase, Neon Database (PostgreSQL), Inngest, Multer,Stripe</h3>
+
+<h3 align="center">Tools: VS Code, Git & GitHub, GitHub Desktop, Postman, Figma, Adobe Photoshop, Netlify, Vercel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasin5060&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin5060" /> </p>
 
