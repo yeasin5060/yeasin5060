@@ -1,12 +1,18 @@
 <h3 align="center">I’m currently learning Front-End : JavaScript,ReactJS,Nextjs, Tailwind, SCSS, Figma, Bem, HTML, CSS , MUI , React Redux-Toolkit , Clerk, Socket.IO, Prebuilt UI, Imagekit, Cloudinary, Axios</h3>
 
-<h3 align="center">I’m currently learning Back-End : JavaScript,Node.js, Express.js, MongoDB, Firebase, Neon Database (PostgreSQL), Inngest, Multer,Stripe</h3>
+<h3 align="center">I’m currently learning Back-End : JavaScript,Node.js, Express.js, MongoDB, Firebase, Neon Database (PostgreSQL), Inngest, Multer,Stripe,Prisma</h3>
 
 <h3 align="center">Tools: VS Code, Git & GitHub, GitHub Desktop, Postman, Figma, Adobe Photoshop, Netlify, Vercel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasin5060&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin5060" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeasin5060" alt="yeasin5060" /></a> </p>
+<h3>About Me</h3>h3>
+<p align="center">
+I'm <strong>Yeasin Munshi</strong>, a passionate <strong>MERN Stack Developer</strong> from Bangladesh 🇧🇩.
+I specialize in building responsive, scalable, and user-friendly web applications using modern JavaScript technologies.
+I enjoy turning ideas into real-world products, solving complex problems, and continuously learning new technologies to improve my development skills.
+</p>
 
 - 🔭 I’m currently working on **Web Development, MERN Stack**
 
