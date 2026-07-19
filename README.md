@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasin5060&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin5060" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeasin5060" alt="yeasin5060" /></a> </p>
-<h3>About Me</h3>h3>
+<h3>About Me</h3>
 <p align="center">
 I'm <strong>Yeasin Munshi</strong>, a passionate <strong>MERN Stack Developer</strong> from Bangladesh 🇧🇩.
 I specialize in building responsive, scalable, and user-friendly web applications using modern JavaScript technologies.
