@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YeasinMunshi/YeasinMunshi/main/assets/banner-github.png" alt="Yeasin Munshi Banner" width="100%">
+ <img src="./assets/banner-github.png" width="100%" alt="Yeasin Munshi Banner">
 </p>
 
 <h3 align="center">I’m currently learning Front-End : JavaScript, ReactJS, Nextjs, Tailwind, SCSS, Figma, Bem, HTML, CSS , MUI , React Redux-Toolkit , Clerk, Socket.IO, Prebuilt UI, Imagekit, Cloudinary, Axios</h3>
