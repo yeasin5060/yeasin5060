@@ -1,6 +1,11 @@
-<h3 align="center">I’m currently learning Front-End : JavaScript,ReactJS,Nextjs, Tailwind, SCSS, Figma, Bem, HTML, CSS , MUI , React Redux-Toolkit , Clerk, Socket.IO, Prebuilt UI, Imagekit, Cloudinary, Axios</h3>
 
-<h3 align="center">I’m currently learning Back-End : JavaScript,Node.js, Express.js, MongoDB, Firebase, Neon Database (PostgreSQL), Inngest, Multer,Stripe,Prisma</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YeasinMunshi/YeasinMunshi/main/assets/banner-github.png" alt="Yeasin Munshi Banner" width="100%">
+</p>
+
+<h3 align="center">I’m currently learning Front-End : JavaScript, ReactJS, Nextjs, Tailwind, SCSS, Figma, Bem, HTML, CSS , MUI , React Redux-Toolkit , Clerk, Socket.IO, Prebuilt UI, Imagekit, Cloudinary, Axios</h3>
+
+<h3 align="center">I’m currently learning Back-End : JavaScript, Node.js, Express.js, MongoDB, Firebase, Neon Database (PostgreSQL), Inngest, Multer,Stripe,Prisma</h3>
 
 <h3 align="center">Tools: VS Code, Git & GitHub, GitHub Desktop, Postman, Figma, Adobe Photoshop, Netlify, Vercel</h3>
 
