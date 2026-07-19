@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="./assets/banner-github.png" width="100%" alt="Yeasin Munshi Banner">
+ <img src="./assets/banner-github-two.png" width="100%" alt="Yeasin Munshi Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yeasin Munshi</h1>
