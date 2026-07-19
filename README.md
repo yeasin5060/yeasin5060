@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeasin5060" alt="yeasin5060" /></a> </p>
 <h3>About Me</h3>
-<p align="center">
+<p align="left">
 I'm <strong>Yeasin Munshi</strong>, a passionate <strong>MERN Stack Developer</strong> from Bangladesh 🇧🇩.
 I specialize in building responsive, scalable, and user-friendly web applications using modern JavaScript technologies.
 I enjoy turning ideas into real-world products, solving complex problems, and continuously learning new technologies to improve my development skills.
