@@ -190,6 +190,9 @@ A modern Quran application built using **Next.js** with translations, tafsir, an
 </tr>
 </table>
 
+
+## 📚 Currently Learning
+
 - Next.js App Router
 - TypeScript
 - Prisma ORM
