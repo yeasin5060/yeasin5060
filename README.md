@@ -99,16 +99,96 @@ I'm **Yeasin Munshi**, a passionate **MERN Stack Developer** from **Bangladesh �
 <img src="https://github-profile-trophy.vercel.app/?username=yeasin5060&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description | Live |
-|---------|-------------|------|
-| 🩺 Doctor Portfolio | Responsive Doctor Portfolio Website | [Live Demo](https://your-link.com) |
-| 🛒 E-Commerce | MERN Stack Ecommerce Application | [Live Demo](https://your-link.com) |
-| 💬 Chat App | Real-Time Chat Application using Socket.IO | [Live Demo](https://your-link.com) |
-| 📰 News Portal | Modern News Website | [Live Demo](https://your-link.com) |
+<table>
+<tr>
+<td width="50%">
 
-## 📚 Currently Learning
+### 🛒 GoCart
+**Full Stack eCommerce Platform**
+
+A modern, scalable eCommerce application built with **Next.js, Neon PostgreSQL, Prisma, Redux Toolkit, Stripe, and Cloudinary**.
+
+✨ Features:
+- Authentication
+- Product Management
+- Shopping Cart
+- Secure Checkout
+- Admin Dashboard
+- Order Management
+
+🔗 **Live:** https://gocart-amber-chi.vercel.app/
+
+💻 **Source:** https://github.com/yeasin5060/gocart
+
+</td>
+
+<td width="50%">
+
+### 🛋️ QuickCart
+**Furniture eCommerce Website**
+
+A modern furniture eCommerce application built using **Next.js, MongoDB, Prisma, Tailwind CSS, and Stripe**.
+
+✨ Features:
+- Furniture Catalog
+- Search & Filtering
+- Authentication
+- Shopping Cart
+- Payment Gateway
+- Responsive Design
+
+🔗 **Live:** https://quick-cari-e-commerce.vercel.app/
+
+💻 **Source:** https://github.com/yeasin5060/quickcart
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 FlipEarn
+**Social Marketplace Platform**
+
+A responsive social marketplace built with **React.js**, allowing users to connect, post products, and buy/sell items.
+
+✨ Features:
+- User Profiles
+- Product Posts
+- Like & Comment
+- Marketplace
+- Chat System
+- Responsive UI
+
+🔗 **Live:** https://flip-earn-xi.vercel.app/
+
+💻 **Source:** https://github.com/yeasin5060/flipearn
+
+</td>
+
+<td width="50%">
+
+### 📖 Quran App
+
+A modern Quran application built using **Next.js** with translations, tafsir, and audio recitations.
+
+✨ Features:
+- Quran Reading
+- Multi-language Translation
+- Tafsir
+- Audio Recitation
+- Search Surah
+- Responsive Design
+
+🔗 **Live:** https://quran-steel-one.vercel.app/
+
+💻 **Source:** https://github.com/yeasin5060/quran-app
+
+</td>
+</tr>
+</table>
 
 - Next.js App Router
 - TypeScript
@@ -154,10 +234,10 @@ I'm **Yeasin Munshi**, a passionate **MERN Stack Developer** from **Bangladesh �
 <p align="left">
 
 <a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:yeasin.dev01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
