@@ -80,28 +80,17 @@ I'm **Yeasin Munshi**, a passionate **MERN Stack Developer** from **Bangladesh �
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeasin5060&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin5060&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeasin5060&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin5060&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeasin5060&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=yeasin5060&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasin5060&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeasin5060&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeasin5060&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeasin5060&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasin5060&theme=tokyonight&utcOffset=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin5060&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ## 📫 Connect with Me
