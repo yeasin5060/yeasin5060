@@ -82,9 +82,23 @@ I'm **Yeasin Munshi**, a passionate **MERN Stack Developer** from **Bangladesh ð
 ## ðŸ“« Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yeasin-munshi-aa7467288/">
+
+<a href="https://www.linkedin.com/in/yeasin-munshi-aa7467288/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 
