@@ -93,6 +93,94 @@ I'm **Yeasin Munshi**, a passionate **MERN Stack Developer** from **Bangladesh �
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin5060&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=yeasin5060&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Live |
+|---------|-------------|------|
+| 🩺 Doctor Portfolio | Responsive Doctor Portfolio Website | [Live Demo](https://your-link.com) |
+| 🛒 E-Commerce | MERN Stack Ecommerce Application | [Live Demo](https://your-link.com) |
+| 💬 Chat App | Real-Time Chat Application using Socket.IO | [Live Demo](https://your-link.com) |
+| 📰 News Portal | Modern News Website | [Live Demo](https://your-link.com) |
+
+## 📚 Currently Learning
+
+- Next.js App Router
+- TypeScript
+- Prisma ORM
+- PostgreSQL
+- Docker
+- AWS
+- Microservices
+- System Design
+
+## 🎯 2026 Goals
+
+✔ Build SaaS Applications
+
+✔ Master System Design
+
+✔ Learn AWS & Docker
+
+✔ Contribute to Open Source
+
+✔ Become Senior Full Stack Developer
+
+## 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+</p>
+
+## 🌐 Portfolio
+
+<p align="left">
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yeasin5060">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+## ☕ Support Me
+
+<p align="left">
+<a href="https://buymeacoffee.com/USERNAME">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yeasin5060/yeasin5060/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ## 📫 Connect with Me
 
 <p align="left">
