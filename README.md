@@ -187,6 +187,38 @@ A modern Quran application built using **Next.js** with translations, tafsir, an
 💻 **Source:** https://github.com/yeasin5060/quran-app
 
 </td>
+<td width="50%">
+
+### 📖 Social Scheduler – Full Stack Social Media Scheduling Platform
+
+Tech Stack: React.js, Tailwind CSS, Context API, Node.js, Express.js, MongoDB, Cloudinary, Multer
+
+Description:
+
+Developed a full-stack Social Scheduler web application that allows users to create, schedule, and manage social media content from a centralized dashboard. The frontend was built with React.js and Tailwind CSS, leveraging Context API for efficient global state management and a seamless, responsive user experience.
+
+The backend was developed using Node.js and Express.js, exposing secure RESTful APIs for authentication, post management, scheduling, and media uploads. MongoDB was used as the primary database to store user accounts, scheduled posts, and application data efficiently. Integrated Multer for handling file uploads and Cloudinary for cloud-based image storage and optimization, ensuring secure and scalable media management.
+
+Key Features
+User authentication and authorization
+Create, edit, delete, and schedule social media posts
+Dashboard to manage scheduled and published posts
+Image upload and management with Cloudinary
+Secure file handling using Multer
+MongoDB database integration for persistent data storage
+RESTful API architecture with Express.js
+Global state management using Context API
+Responsive and modern UI built with Tailwind CSS
+Form validation, error handling, and secure API communication
+Scalable full-stack architecture following best development practices
+
+This project demonstrates strong expertise in React.js, Tailwind CSS, Context API, Node.js, Express.js, MongoDB, Cloudinary, and Multer, showcasing the ability to build scalable, responsive, and production-ready full-stack web applications.
+
+🔗 **Live:** https://social-scheduler-nu-amber.vercel.app/
+
+💻 **Source:** https://github.com/yeasin5060/social-scheduler
+
+</td>
 </tr>
 </table>
 
