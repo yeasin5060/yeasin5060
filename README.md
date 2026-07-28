@@ -103,14 +103,14 @@ I'm **Yeasin Munshi**, a passionate **MERN Stack Developer** from **Bangladesh �
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 GoCart
 **Full Stack eCommerce Platform**
 
 A modern, scalable eCommerce application built with **Next.js, Neon PostgreSQL, Prisma, Redux Toolkit, Stripe, and Cloudinary**.
 
-✨ Features:
+✨ **Features:**
 - Authentication
 - Product Management
 - Shopping Cart
@@ -124,14 +124,37 @@ A modern, scalable eCommerce application built with **Next.js, Neon PostgreSQL, 
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛋️ QuickCart
+### 📅 Social Scheduler
+**Full Stack Social Media Scheduling Platform**
+
+A full-stack social media scheduling platform built with **React.js, Tailwind CSS, Context API, Node.js, Express.js, MongoDB, Cloudinary, and Multer**.
+
+✨ **Features:**
+- User Authentication
+- Schedule & Manage Posts
+- Dashboard
+- Cloudinary Image Upload
+- Secure File Uploads
+- Responsive UI
+
+🔗 **Live:** https://social-scheduler-nu-amber.vercel.app/
+
+💻 **Source:** https://github.com/yeasin5060/social-scheduler
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛋️ QuickChat
 **Furniture eCommerce Website**
 
 A modern furniture eCommerce application built using **Next.js, MongoDB, Prisma, Tailwind CSS, and Stripe**.
 
-✨ Features:
+✨ **Features:**
 - Furniture Catalog
 - Search & Filtering
 - Authentication
@@ -144,17 +167,15 @@ A modern furniture eCommerce application built using **Next.js, MongoDB, Prisma,
 💻 **Source:** https://github.com/yeasin5060/quickcart
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💬 FlipEarn
 **Social Marketplace Platform**
 
 A responsive social marketplace built with **React.js**, allowing users to connect, post products, and buy/sell items.
 
-✨ Features:
+✨ **Features:**
 - User Profiles
 - Product Posts
 - Like & Comment
@@ -167,14 +188,17 @@ A responsive social marketplace built with **React.js**, allowing users to conne
 💻 **Source:** https://github.com/yeasin5060/flipearn
 
 </td>
+</tr>
 
-<td width="50%">
+<tr>
+<td width="50%" valign="top">
 
 ### 📖 Quran App
+**Modern Quran Application**
 
 A modern Quran application built using **Next.js** with translations, tafsir, and audio recitations.
 
-✨ Features:
+✨ **Features:**
 - Quran Reading
 - Multi-language Translation
 - Tafsir
@@ -185,6 +209,12 @@ A modern Quran application built using **Next.js** with translations, tafsir, an
 🔗 **Live:** https://quran-steel-one.vercel.app/
 
 💻 **Source:** https://github.com/yeasin5060/quran-app
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- Add another project here -->
 
 </td>
 </tr>
