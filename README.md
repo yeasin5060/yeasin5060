@@ -266,7 +266,7 @@ A modern Quran application built using **Next.js** with translations, tafsir, an
 
 <p align="left">
 
-<a href="https://portfolio-nextjs-six-rose.vercel.app/">
+<a href="https://portfolio-nextjs-six-drab.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
